@@ -267,3 +267,64 @@ TrackWay follows a **role-based client-server architecture** where Driver and Ma
                      │
                      ▼
                 🗺️ Live Map
+
+
+---
+
+# 📦 Download APK
+
+Experience **TrackWay** without opening Android Studio.
+
+Download the latest APK release and explore the application's real-time GPS tracking, Driver experience, Manager monitoring, delivery tracking, notifications, and journey management features directly on an Android device.
+
+| Information | Details |
+|-------------|---------|
+| 📦 Version | v1.0 |
+| 📱 Platform | Android |
+| ⚙️ Minimum SDK | API 24 |
+| 🛠 Built With | Java & XML |
+| 🌐 Backend | Node.js |
+| 📍 Core Technology | GPS / Location Services |
+| 📅 Release | August 2026 |
+
+<p align="center">
+
+<a href="https://github.com/Asad-KhanDev/TrackWay/releases">
+<img src="https://img.shields.io/badge/⬇️%20Download-TrackWay%20APK-success?style=for-the-badge"/>
+</a>
+
+</p>
+
+> **Note:** The APK download link will become active after publishing the corresponding GitHub Release.
+
+---
+
+# 👨‍💻 Developer
+
+## Asad Ali Khan
+
+**Computer Science Student • Android Developer • Backend Developer**
+
+Passionate about building modern Android applications, GPS-based systems, backend-powered mobile applications, and real-world software solutions.
+
+### Connect With Me
+
+- GitHub — https://github.com/Asad-KhanDev
+- LinkedIn — https://www.linkedin.com/in/asad-ali-khan-b76325335
+- Upwork — https://www.upwork.com/freelancers/~011be02e85d9578791
+
+---
+
+# ⭐ Support the Project
+
+If you found **TrackWay** useful or inspiring, please consider giving this repository a ⭐.
+
+Your support helps motivate continued development and future improvements.
+
+---
+
+# 📄 License
+
+This project is currently provided for **portfolio demonstration, educational purposes, and Android development learning**.
+
+© 2026 Asad Ali Khan. All Rights Reserved.
