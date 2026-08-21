@@ -1,4 +1,4 @@
-# 🚗 TrackWay
+#  TrackWay
 
 ### Real-Time GPS Vehicle & Delivery Tracking System
 
@@ -19,7 +19,7 @@
 
 TrackWay is a real-time **GPS vehicle and delivery tracking system** designed around two primary roles:
 
-- 👨‍✈️ **Driver** — manages tracking sessions, deliveries, GPS status, and journeys.
+- 🏎️ **Driver** — manages tracking sessions, deliveries, GPS status, and journeys.
 - 👨‍💼 **Manager** — monitors drivers, vehicles, deliveries, activities, and active journeys.
 
 When a driver starts a tracking session, TrackWay uses the device's GPS to obtain location information and synchronizes tracking data with the Node.js backend.
