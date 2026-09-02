@@ -297,13 +297,13 @@ Download the latest APK release and explore the application's real-time GPS trac
 
 <p align="center">
 
-<a href="sha256:0f486f97fc2b4ae87c0e354b3bd092650f2552a5a99ff05547901dca8c882203">
-<img src="https://img.shields.io/badge/⬇️%20Download-TrackWay%20APK-success?style=for-the-badge"/>
+<a href="https://github.com/Asad-KhanDev/TrackWay/releases/download/v1.0/TrackWay-v1.0.apk">
+<img src="https://img.shields.io/badge/⬇️%20Download-TrackWay%20APK-success?style=for-the-badge" alt="Download TrackWay APK"/>
 </a>
 
 </p>
 
-> **Note:** The APK download link will become active after publishing the corresponding GitHub Release.
+> **SHA-256:** `0f486f97fc2b4ae87c0e354b3bd092650f2552a5a99ff05547901dca8c882203`
 
 ---
 
