@@ -297,7 +297,7 @@ Download the latest APK release and explore the application's real-time GPS trac
 
 <p align="center">
 
-<a href="https://github.com/Asad-KhanDev/TrackWay/releases">
+<a href="sha256:0f486f97fc2b4ae87c0e354b3bd092650f2552a5a99ff05547901dca8c882203">
 <img src="https://img.shields.io/badge/⬇️%20Download-TrackWay%20APK-success?style=for-the-badge"/>
 </a>
 
