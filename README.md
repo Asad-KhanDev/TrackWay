@@ -164,6 +164,14 @@ The screenshots below showcase the main Driver and Manager experiences of TrackW
 
 ---
 
+## 🛰️ Manager Login 
+
+<p align="center">
+  <img src="screenshots/driver_tracking.png" width="300"/>
+</p>
+
+---
+
 ## 🧭 Manager Dashboard
 
 <p align="center">
